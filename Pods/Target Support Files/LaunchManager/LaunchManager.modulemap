@@ -1,0 +1,6 @@
+framework module LaunchManager {
+  umbrella header "LaunchManager-umbrella.h"
+
+  export *
+  module * { export * }
+}

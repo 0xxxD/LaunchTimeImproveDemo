@@ -1,0 +1,37 @@
+{
+  "name": "ApplicationModule",
+  "version": "0.1.0",
+  "summary": "A short description of ApplicationModule.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/0xxxd/ApplicationModule",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "0xxxd": "0xxxd0210@gmail.com"
+  },
+  "source": {
+    "git": "https://github.com/0xxxd/ApplicationModule.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "11.0"
+  },
+  "static_framework": true,
+  "source_files": "ApplicationModule/Classes/**/*",
+  "dependencies": {
+    "A": [
+
+    ],
+    "SnapKit": [
+
+    ],
+    "LaunchTimeMeasurer": [
+
+    ],
+    "LaunchManager": [
+
+    ]
+  }
+}

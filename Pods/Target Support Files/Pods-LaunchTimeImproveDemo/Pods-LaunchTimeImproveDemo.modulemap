@@ -1,0 +1,6 @@
+framework module Pods_LaunchTimeImproveDemo {
+  umbrella header "Pods-LaunchTimeImproveDemo-umbrella.h"
+
+  export *
+  module * { export * }
+}

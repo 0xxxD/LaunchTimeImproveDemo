@@ -1,0 +1,6 @@
+use_frameworks!
+target 'LaunchTimeMeasurer_Tests' do
+  pod 'LaunchTimeMeasurer', :path => '../'
+  
+  
+end

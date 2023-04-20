@@ -1,0 +1,24 @@
+{
+  "name": "A",
+  "version": "0.1.0",
+  "summary": "A short description of A.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/0xxxd/A",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "0xxxd": "0xxxd0210@gmail.com"
+  },
+  "source": {
+    "git": "https://github.com/0xxxd/A.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "11.0"
+  },
+  "static_framework": false,
+  "source_files": "A/Classes/**/*.{h,m}",
+  "public_header_files": "A/Classes/**/*.h"
+}

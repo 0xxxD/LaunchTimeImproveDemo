@@ -1,0 +1,6 @@
+use_frameworks!
+target 'LaunchTimeImprover_Tests' do
+  pod 'LaunchTimeImprover', :path => '../'
+  
+  
+end

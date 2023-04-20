@@ -1,0 +1,6 @@
+framework module LaunchTimeImprover {
+  umbrella header "LaunchTimeImprover-umbrella.h"
+
+  export *
+  module * { export * }
+}

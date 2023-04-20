@@ -1,0 +1,16 @@
+ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES
+CLANG_WARN_QUOTED_INCLUDE_IN_FRAMEWORK_HEADER = NO
+EXCLUDED_ARCHS[sdk=iphonesimulator*] = arm64
+FRAMEWORK_SEARCH_PATHS = $(inherited) "${PODS_CONFIGURATION_BUILD_DIR}/A" "${PODS_CONFIGURATION_BUILD_DIR}/ApplicationModule" "${PODS_CONFIGURATION_BUILD_DIR}/FDFullscreenPopGesture" "${PODS_CONFIGURATION_BUILD_DIR}/LaunchManager" "${PODS_CONFIGURATION_BUILD_DIR}/LaunchTimeImprover" "${PODS_CONFIGURATION_BUILD_DIR}/LaunchTimeMeasurer" "${PODS_CONFIGURATION_BUILD_DIR}/QCloudCOSXML" "${PODS_CONFIGURATION_BUILD_DIR}/QCloudCore" "${PODS_CONFIGURATION_BUILD_DIR}/SnapKit" "${PODS_ROOT}/QCloudCore/QCloudCore/Classes/BeaconFramework"
+GCC_PREPROCESSOR_DEFINITIONS = $(inherited) COCOAPODS=1
+HEADER_SEARCH_PATHS = $(inherited) "${PODS_CONFIGURATION_BUILD_DIR}/A/A.framework/Headers" "${PODS_CONFIGURATION_BUILD_DIR}/ApplicationModule/ApplicationModule.framework/Headers" "${PODS_CONFIGURATION_BUILD_DIR}/FDFullscreenPopGesture/FDFullscreenPopGesture.framework/Headers" "${PODS_CONFIGURATION_BUILD_DIR}/LaunchManager/LaunchManager.framework/Headers" "${PODS_CONFIGURATION_BUILD_DIR}/LaunchTimeImprover/LaunchTimeImprover.framework/Headers" "${PODS_CONFIGURATION_BUILD_DIR}/LaunchTimeMeasurer/LaunchTimeMeasurer.framework/Headers" "${PODS_CONFIGURATION_BUILD_DIR}/QCloudCOSXML/QCloudCOSXML.framework/Headers" "${PODS_CONFIGURATION_BUILD_DIR}/QCloudCore/QCloudCore.framework/Headers" "${PODS_CONFIGURATION_BUILD_DIR}/SnapKit/SnapKit.framework/Headers"
+LD_RUNPATH_SEARCH_PATHS = $(inherited) /usr/lib/swift '@executable_path/Frameworks' '@loader_path/Frameworks'
+LIBRARY_SEARCH_PATHS = $(inherited) "${DT_TOOLCHAIN_DIR}/usr/lib/swift/${PLATFORM_NAME}" /usr/lib/swift
+OTHER_LDFLAGS = $(inherited) -ObjC -l"c++" -l"z" -framework "A" -framework "Accelerate" -framework "ApplicationModule" -framework "BeaconAPI_Base" -framework "CoreMedia" -framework "FDFullscreenPopGesture" -framework "LaunchManager" -framework "LaunchTimeImprover" -framework "LaunchTimeMeasurer" -framework "QCloudCOSXML" -framework "QCloudCore" -framework "QimeiSDK" -framework "SnapKit" -framework "SystemConfiguration"
+OTHER_SWIFT_FLAGS = $(inherited) -D COCOAPODS
+PODS_BUILD_DIR = ${BUILD_DIR}
+PODS_CONFIGURATION_BUILD_DIR = ${PODS_BUILD_DIR}/$(CONFIGURATION)$(EFFECTIVE_PLATFORM_NAME)
+PODS_PODFILE_DIR_PATH = ${SRCROOT}/.
+PODS_ROOT = ${SRCROOT}/Pods
+PODS_XCFRAMEWORKS_BUILD_DIR = $(PODS_CONFIGURATION_BUILD_DIR)/XCFrameworkIntermediates
+USE_RECURSIVE_SCRIPT_INPUTS_IN_SCRIPT_PHASES = YES

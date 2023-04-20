@@ -1,0 +1,6 @@
+framework module LaunchTimeMeasurer {
+  umbrella header "LaunchTimeMeasurer-umbrella.h"
+
+  export *
+  module * { export * }
+}

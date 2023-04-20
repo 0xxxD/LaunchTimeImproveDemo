@@ -1,0 +1,66 @@
+PODS:
+  - A (0.1.0)
+  - ApplicationModule (0.1.0):
+    - A
+    - LaunchManager
+    - LaunchTimeMeasurer
+    - SnapKit
+  - FDFullscreenPopGesture (1.1)
+  - LaunchManager (0.1.0):
+    - LaunchTimeImprover
+  - LaunchTimeImprover (0.1.0):
+    - A
+  - LaunchTimeMeasurer (0.1.0)
+  - QCloudCore (6.2.0):
+    - QCloudCore/Default (= 6.2.0)
+  - QCloudCore/Default (6.2.0)
+  - QCloudCOSXML (6.2.0):
+    - QCloudCOSXML/Default (= 6.2.0)
+  - QCloudCOSXML/Default (6.2.0):
+    - QCloudCore (= 6.2.0)
+  - SnapKit (5.6.0)
+
+DEPENDENCIES:
+  - A (from `./LocalPods/A`)
+  - ApplicationModule (from `./LocalPods/ApplicationModule`)
+  - FDFullscreenPopGesture (from `./LocalPods/FDFullscreenPopGesture`)
+  - LaunchManager (from `./LocalPods/LaunchManager`)
+  - LaunchTimeImprover (from `./LocalPods/LaunchTimeImprover`)
+  - LaunchTimeMeasurer (from `./LocalPods/LaunchTimeMeasurer`)
+  - QCloudCOSXML
+  - SnapKit
+
+SPEC REPOS:
+  https://github.com/CocoaPods/Specs.git:
+    - QCloudCore
+    - QCloudCOSXML
+    - SnapKit
+
+EXTERNAL SOURCES:
+  A:
+    :path: "./LocalPods/A"
+  ApplicationModule:
+    :path: "./LocalPods/ApplicationModule"
+  FDFullscreenPopGesture:
+    :path: "./LocalPods/FDFullscreenPopGesture"
+  LaunchManager:
+    :path: "./LocalPods/LaunchManager"
+  LaunchTimeImprover:
+    :path: "./LocalPods/LaunchTimeImprover"
+  LaunchTimeMeasurer:
+    :path: "./LocalPods/LaunchTimeMeasurer"
+
+SPEC CHECKSUMS:
+  A: c4386fadd2ea4635121af59337d6c5395c837ed8
+  ApplicationModule: c8318b4b2a99632a04ae81ec5355a6af7193cc9b
+  FDFullscreenPopGesture: f927e70d2b3f7ea91211d44213c2489db1228f64
+  LaunchManager: c8fedbf2733d1f53f6a86253b7b3cb6f86236828
+  LaunchTimeImprover: 1daf2634dc0f4e443ebf178feba605e95df3531d
+  LaunchTimeMeasurer: ff290bf1eb6850f273e1d2b0502953158ed175ff
+  QCloudCore: 3efd54dcfccc2466e4e9913754f54889a5616d15
+  QCloudCOSXML: 8b38db47897303656db8b38ca67d1fc93a7ad551
+  SnapKit: e01d52ebb8ddbc333eefe2132acf85c8227d9c25
+
+PODFILE CHECKSUM: 8825ffd920e575410271376cae9bb818e2527a08
+
+COCOAPODS: 1.12.0

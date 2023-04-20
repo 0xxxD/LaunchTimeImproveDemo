@@ -1,0 +1,464 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "B999A523-64FE-45A3-AB54-790AF3AB2453"
+   type = "0"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "827C43BE-ECA9-4C96-9E58-047839AA0B44"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "LocalPods/FDFullscreenPopGesture/FDFullscreenPopGesture/UINavigationController+FDFullscreenPopGesture.m"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "86"
+            endingLineNumber = "86"
+            landmarkName = "+load"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "827C43BE-ECA9-4C96-9E58-047839AA0B44 - 313e66c7fbaaa970"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "+[UIViewController(FDFullscreenPopGesturePrivate) load]"
+                  moduleName = "LaunchTimeImproveDemo"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/chenchoi/Github/LaunchTimeImproveDemo/LocalPods/FDFullscreenPopGesture/FDFullscreenPopGesture/UINavigationController+FDFullscreenPopGesture.m"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "85"
+                  endingLineNumber = "85"
+                  offsetFromSymbolStart = "16">
+               </Location>
+               <Location
+                  uuid = "827C43BE-ECA9-4C96-9E58-047839AA0B44 - a354efa1e550f5c3"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "__55+[UIViewController(FDFullscreenPopGesturePrivate) load]_block_invoke"
+                  moduleName = "LaunchTimeImproveDemo"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/chenchoi/Github/LaunchTimeImproveDemo/LocalPods/FDFullscreenPopGesture/FDFullscreenPopGesture/UINavigationController+FDFullscreenPopGesture.m"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "86"
+                  endingLineNumber = "86"
+                  offsetFromSymbolStart = "20">
+               </Location>
+               <Location
+                  uuid = "827C43BE-ECA9-4C96-9E58-047839AA0B44 - 313e66c7fbaaa932"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "+[UIViewController(FDFullscreenPopGesturePrivate) load]"
+                  moduleName = "LaunchTimeImproveDemo"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/chenchoi/Github/LaunchTimeImproveDemo/LocalPods/FDFullscreenPopGesture/FDFullscreenPopGesture/UINavigationController+FDFullscreenPopGesture.m"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "87"
+                  endingLineNumber = "87"
+                  offsetFromSymbolStart = "44">
+               </Location>
+               <Location
+                  uuid = "827C43BE-ECA9-4C96-9E58-047839AA0B44 - a354efa1e550f581"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "__55+[UIViewController(FDFullscreenPopGesturePrivate) load]_block_invoke"
+                  moduleName = "LaunchTimeImproveDemo"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/chenchoi/Github/LaunchTimeImproveDemo/LocalPods/FDFullscreenPopGesture/FDFullscreenPopGesture/UINavigationController+FDFullscreenPopGesture.m"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "88"
+                  endingLineNumber = "88"
+                  offsetFromSymbolStart = "32">
+               </Location>
+               <Location
+                  uuid = "827C43BE-ECA9-4C96-9E58-047839AA0B44 - 313e66c7fbaaa932"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "+[UIViewController(FDFullscreenPopGesturePrivate) load]"
+                  moduleName = "LaunchTimeImproveDemo"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/chenchoi/Github/LaunchTimeImproveDemo/LocalPods/FDFullscreenPopGesture/FDFullscreenPopGesture/UINavigationController+FDFullscreenPopGesture.m"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "87"
+                  endingLineNumber = "87"
+                  offsetFromSymbolStart = "30">
+               </Location>
+               <Location
+                  uuid = "827C43BE-ECA9-4C96-9E58-047839AA0B44 - a354efa1e550f581"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "__55+[UIViewController(FDFullscreenPopGesturePrivate) load]_block_invoke"
+                  moduleName = "LaunchTimeImproveDemo"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/chenchoi/Github/LaunchTimeImproveDemo/LocalPods/FDFullscreenPopGesture/FDFullscreenPopGesture/UINavigationController+FDFullscreenPopGesture.m"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "88"
+                  endingLineNumber = "88"
+                  offsetFromSymbolStart = "20">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "EFCE4522-49FD-47C6-BEFE-FF65BC349668"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Pods/QCloudCOSXML/QCloudCOSXML/Classes/Base/QCloudRequestData+COSXMLVersion.m"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "9"
+            endingLineNumber = "9"
+            landmarkName = "+load"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "EFCE4522-49FD-47C6-BEFE-FF65BC349668 - e8223dc6b66fa85e"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "+[QCloudRequestData(COSXMLVersion) load]"
+                  moduleName = "LaunchTimeImproveDemo"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/chenchoi/Github/LaunchTimeImproveDemo/Pods/QCloudCOSXML/QCloudCOSXML/Classes/Base/QCloudRequestData+COSXMLVersion.m"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "10"
+                  endingLineNumber = "10"
+                  offsetFromSymbolStart = "32">
+               </Location>
+               <Location
+                  uuid = "EFCE4522-49FD-47C6-BEFE-FF65BC349668 - e8223dc6b66fa85e"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "+[QCloudRequestData(COSXMLVersion) load]"
+                  moduleName = "LaunchTimeImproveDemo"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/chenchoi/Github/LaunchTimeImproveDemo/Pods/QCloudCOSXML/QCloudCOSXML/Classes/Base/QCloudRequestData+COSXMLVersion.m"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "10"
+                  endingLineNumber = "10"
+                  offsetFromSymbolStart = "16">
+               </Location>
+               <Location
+                  uuid = "EFCE4522-49FD-47C6-BEFE-FF65BC349668 - dba2b950741f8fb1"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "__40+[QCloudRequestData(COSXMLVersion) load]_block_invoke"
+                  moduleName = "LaunchTimeImproveDemo"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/chenchoi/Github/LaunchTimeImproveDemo/Pods/QCloudCOSXML/QCloudCOSXML/Classes/Base/QCloudRequestData+COSXMLVersion.m"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "11"
+                  endingLineNumber = "11"
+                  offsetFromSymbolStart = "28">
+               </Location>
+               <Location
+                  uuid = "EFCE4522-49FD-47C6-BEFE-FF65BC349668 - dba2b950741f8fb1"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "__40+[QCloudRequestData(COSXMLVersion) load]_block_invoke"
+                  moduleName = "LaunchTimeImproveDemo"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/chenchoi/Github/LaunchTimeImproveDemo/Pods/QCloudCOSXML/QCloudCOSXML/Classes/Base/QCloudRequestData+COSXMLVersion.m"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "11"
+                  endingLineNumber = "11"
+                  offsetFromSymbolStart = "16">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "8A966B79-4436-43D4-9882-95618FF29330"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "LocalPods/LaunchTimeImprover/LaunchTimeImprover/Classes/LaunchTimeImprover.mm"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "54"
+            endingLineNumber = "54"
+            landmarkName = "+xd_launch"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "8A966B79-4436-43D4-9882-95618FF29330 - 35a7822deb530ac4"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "+[LaunchTimeImprover xd_launch]"
+                  moduleName = "LaunchTimeImproveDemo"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/chenchoi/Github/LaunchTimeImproveDemo/LocalPods/LaunchTimeImprover/LaunchTimeImprover/Classes/LaunchTimeImprover.mm"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "23"
+                  endingLineNumber = "23"
+                  offsetFromSymbolStart = "24">
+               </Location>
+               <Location
+                  uuid = "8A966B79-4436-43D4-9882-95618FF29330 - 35a7822deb530ac4"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "+[LaunchTimeImprover xd_launch]"
+                  moduleName = "LaunchTimeImproveDemo"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/chenchoi/Github/LaunchTimeImproveDemo/LocalPods/LaunchTimeImprover/LaunchTimeImprover/Classes/LaunchTimeImprover.mm"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "23"
+                  endingLineNumber = "23"
+                  offsetFromSymbolStart = "16">
+               </Location>
+               <Location
+                  uuid = "8A966B79-4436-43D4-9882-95618FF29330 - 35a7822deb53099d"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "+[LaunchTimeImprover xd_launch]"
+                  moduleName = "LaunchTimeImproveDemo"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/chenchoi/Github/LaunchTimeImproveDemo/LocalPods/LaunchTimeImprover/LaunchTimeImprover/Classes/LaunchTimeImprover.mm"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "48"
+                  endingLineNumber = "48"
+                  offsetFromSymbolStart = "16">
+               </Location>
+               <Location
+                  uuid = "8A966B79-4436-43D4-9882-95618FF29330 - 35a7822deb53099d"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "+[LaunchTimeImprover xd_launch]"
+                  moduleName = "LaunchTimeImproveDemo"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/chenchoi/Github/LaunchTimeImproveDemo/LocalPods/LaunchTimeImprover/LaunchTimeImprover/Classes/LaunchTimeImprover.mm"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "48"
+                  endingLineNumber = "48"
+                  offsetFromSymbolStart = "24">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "051405C6-87B2-47E1-9112-F553062BB390"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "LocalPods/LaunchTimeImprover/LaunchTimeImprover/Classes/LaunchTimeImprover.mm"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "198"
+            endingLineNumber = "198"
+            landmarkName = "+fakeLoad"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "B4CF7BEA-CD1D-4CF0-91F3-AA591AD85EB5"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "LocalPods/LaunchTimeImprover/LaunchTimeImprover/Classes/LaunchTimeImprover.mm"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "166"
+            endingLineNumber = "166"
+            landmarkName = "LaunchLoadTimeImprover"
+            landmarkType = "3">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "32CC9EE4-CDC2-432E-AA32-70AB7B10B5E2"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "LocalPods/LaunchTimeImprover/LaunchTimeImprover/Classes/LaunchLoadTimeImprover.mm"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "171"
+            endingLineNumber = "171"
+            landmarkName = "+callLoad"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "B0267B04-AE02-40BD-A21B-2F008E6A871C"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "LocalPods/LaunchTimeImprover/LaunchTimeImprover/Classes/LaunchLoadTimeImprover.mm"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "170"
+            endingLineNumber = "170"
+            landmarkName = "+callLoad"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "193EE1EC-491E-4D6C-8672-A55267566838"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "LocalPods/LaunchTimeImprover/LaunchTimeImprover/Classes/LaunchLoadTimeImprover.mm"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "127"
+            endingLineNumber = "127"
+            landmarkName = "LaunchLoadTimeImprover"
+            landmarkType = "3">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "0A2F3C92-C857-4B9D-A30C-F744F5134FF5"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "LocalPods/FDFullscreenPopGesture/FDFullscreenPopGesture/UINavigationController+FDFullscreenPopGesture.m"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "137"
+            endingLineNumber = "137"
+            landmarkName = "+load"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "C356B4E4-386B-49D2-A4D9-1DA99BB0E8CA"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Pods/QCloudCOSXML/QCloudCOSXML/Classes/Base/QCloudAbstractRequest+Quality.m"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "14"
+            endingLineNumber = "14"
+            landmarkName = "+load"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "C356B4E4-386B-49D2-A4D9-1DA99BB0E8CA - ee9c1bd14c5c40f5"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "+[QCloudAbstractRequest(Quality) load]"
+                  moduleName = "LaunchTimeImproveDemo"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/chenchoi/Github/LaunchTimeImproveDemo/Pods/QCloudCOSXML/QCloudCOSXML/Classes/Base/QCloudAbstractRequest+Quality.m"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "15"
+                  endingLineNumber = "15"
+                  offsetFromSymbolStart = "32">
+               </Location>
+               <Location
+                  uuid = "C356B4E4-386B-49D2-A4D9-1DA99BB0E8CA - 4e3b4a430006df8d"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "__38+[QCloudAbstractRequest(Quality) load]_block_invoke"
+                  moduleName = "LaunchTimeImproveDemo"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/chenchoi/Github/LaunchTimeImproveDemo/Pods/QCloudCOSXML/QCloudCOSXML/Classes/Base/QCloudAbstractRequest+Quality.m"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "16"
+                  endingLineNumber = "16"
+                  offsetFromSymbolStart = "28">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "56562665-1F12-45CF-8A2D-F4055008E59A"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Pods/QCloudCOSXML/QCloudCOSXML/Classes/Base/QCloudCOSXMLService+Quality.m"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "20"
+            endingLineNumber = "20"
+            landmarkName = "+load"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "56562665-1F12-45CF-8A2D-F4055008E59A - 72ac58fe454ec025"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "+[QCloudCOSXMLService(Quality) load]"
+                  moduleName = "LaunchTimeImproveDemo"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/chenchoi/Github/LaunchTimeImproveDemo/Pods/QCloudCOSXML/QCloudCOSXML/Classes/Base/QCloudCOSXMLService+Quality.m"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "21"
+                  endingLineNumber = "21"
+                  offsetFromSymbolStart = "32">
+               </Location>
+               <Location
+                  uuid = "56562665-1F12-45CF-8A2D-F4055008E59A - e70d6e379ad7aacf"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "__36+[QCloudCOSXMLService(Quality) load]_block_invoke"
+                  moduleName = "LaunchTimeImproveDemo"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/chenchoi/Github/LaunchTimeImproveDemo/Pods/QCloudCOSXML/QCloudCOSXML/Classes/Base/QCloudCOSXMLService+Quality.m"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "22"
+                  endingLineNumber = "22"
+                  offsetFromSymbolStart = "28">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>

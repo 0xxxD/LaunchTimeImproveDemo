@@ -1,0 +1,6 @@
+use_frameworks!
+target 'LaunchManager_Tests' do
+  pod 'LaunchManager', :path => '../'
+  
+  
+end
